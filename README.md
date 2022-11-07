@@ -3,9 +3,13 @@
 ### :man_technologist: &nbsp;About Me :
 
 I am a Lead .Net Backend Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-Of course, I am not limited to this. I have acted as front-end, Full-stack, DevOps and even Scrum Master roles.
 
-- 🔭 I’m working as a Lead Sorftware Engineer and contributing to frontend and backend for building web applications.
+Of course, I am not limited to this - for 11 years of professional work, I have acted as an Architect, Full-stack, Front-end, DevOps and even Scrum Master.
+
+- 🔭 I’m working as a Lead Sorftware Engineer and contributing to frontend and backend for building web applications. 
+- 😪 Most of the time I work on closed client solutions, so my hub is not as well filled in years as I would like.
+- 📈 Sometimes I might be interested in full-time career opportunities in an interesting project. Feel free to contact me.
+- 🌍 I’m open for relocation. English B2.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-e0gen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/e0gen)
 
 ---
@@ -42,17 +46,3 @@ Of course, I am not limited to this. I have acted as front-end, Full-stack, DevO
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e0gen&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-<!--
-**e0gen/e0gen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
