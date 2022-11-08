@@ -7,8 +7,8 @@ I am a Lead .Net Backend Software Developer <img src="https://media.giphy.com/me
 Of course, I am not limited to this - for 11 years of professional work, I have acted as an Architect, Full-stack, Front-end, DevOps and even Scrum Master.
 
 - 🔭 I’m working as a Lead Sorftware Engineer and contributing to frontend and backend for building web applications. 
-- 😪 Most of the time I work on closed client solutions, so my hub is not as well filled in years as I would like.
-- 📈 Sometimes I might be interested in full-time career opportunities in an interesting project. Feel free to contact me.
+- 😪 Most of the time I work on private client solutions, so my hub is not as well filled in years as I would like.
+- 📈 Sometimes I might be interested in full-time career opportunities in an interesting projects. Feel free to contact me.
 - 🌍 I’m open for relocation. English B2.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-e0gen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/e0gen)
 
