@@ -40,8 +40,6 @@ Of course, I am not limited to this - for 11 years of professional work, I have 
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
 </p>
 
-https://www.ibm.com/brand/experience-guides/developer/b1db1ae501d522a1a4b49613fe07c9f1/01_8-bar-positive.svg
-
 ---
 
 ### 🔥 &nbsp; My Stats :
