@@ -2,11 +2,11 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Lead .Net Backend Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Senior .Net Backend Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-Of course, I am not limited to this - for 11 years of professional work, I have acted as an Architect, Full-stack, Front-end, DevOps and even Scrum Master.
+Of course, I am not limited to this - for 11 years of professional work, I have acted as an Team Lead, Tech Leader, Architect, Full-stack, Front-end, DevOps, Business Analyst and even Scrum Master.
 
-- 🔭 I’m working as a Lead Sorftware Engineer and contributing to frontend and backend for building web applications. 
+- 🔭 I work as an Information Technology Expert and develop back-end and front-end parts of web applications, integration services or desktop applications. 
 - 😪 Most of the time I work on private client solutions, so my hub is not as well filled in years as I would like.
 - 📈 Sometimes I might be interested in full-time career opportunities in an interesting projects. Feel free to contact me.
 - 🌍 I’m open for relocation. English B2.
