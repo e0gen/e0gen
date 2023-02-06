@@ -2,9 +2,9 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Senior .Net Backend Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Senior Software Engineer.
 
-Of course, I am not limited to this - for 11 years of professional work, I have acted as an Team Lead, Tech Leader, Architect, Full-stack, Front-end, DevOps, Business Analyst and even Scrum Master.
+Mostly I am act as Senior Backend .NET developer, but of course, I am not limited to this - for 11+ years of professional work, I have acted as an IT Expert, Team Leader, Architect, Full-stack, Front-end, DevOps, Business Analyst and even Scrum Master.
 
 - 🔭 I work as an Information Technology Expert and develop back-end and front-end parts of web applications, integration services or desktop applications. 
 - 😪 Most of the time I work on private client solutions, so my hub is not as well filled in years as I would like.
