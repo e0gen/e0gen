@@ -2,11 +2,11 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Senior Software Engineer.
+I am a Senior Back-end Software Developer with over 11 years of experience. 
 
-Mostly I am act as Senior Backend .NET developer, but of course, I am not limited to this - for 11+ years of professional work, I have acted as an IT Expert, Team Leader, Architect, Full-stack, Front-end, DevOps, Business Analyst and even Scrum Master.
+Experienced in building client-server desktop applications and high-scale backend systems, web services, APIs and maintaining them in a high load, high availability production environment. 
+I have taken on the roles of Team Leader, IT Expert, Architect, Front-end Developer, Business Analyst and DevOps.
 
-- 🔭 I work as an Information Technology Expert and develop back-end and front-end parts of web applications, integration services or desktop applications. 
 - 😪 Most of the time I work on private client solutions, so my hub is not as well filled in years as I would like.
 - 📈 Sometimes I might be interested in full-time career opportunities in an interesting projects. Feel free to contact me.
 - 🌍 I’m open for relocation. English B2.
