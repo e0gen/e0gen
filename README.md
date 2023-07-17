@@ -9,7 +9,7 @@ I have taken on the roles of Team Leader, IT Expert, Architect, Front-end Develo
 
 - 😪 Most of the time I work on private client solutions, so my hub is not as well filled in years as I would like.
 - 📈 Sometimes I might be interested in full-time career opportunities in an interesting projects. Feel free to contact me.
-- 🌍 I’m open for relocation. English B2.
+- 🌍 I live in Cyprus. English B2.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-e0gen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/e0gen)
 
 ---
